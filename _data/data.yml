@@ -1,35 +1,36 @@
 #
-# Be aware that even a small syntax error here can lead to failures in output.
+# Tenga en cuenta que al modificar este archivo, el mínimo error en la sintáxis puede generar errores
 #
 
 sidebar:
-    about: False # NO MODIFICAR
-    education: False # NO MODIFICAR
-    
-    # Profile information
-    name: Luis Diego Vera Alvarez
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  about: False # NO MODIFICAR
+  education: False # NO MODIFICAR
 
-    # Sidebar links
-    email: ldera41@gmail.com 
-    phone: 4131135484
-    website: #do not add http://
-    linkedin:
-    github: https://github.com/LDVera
-    gitlab:
-    bitbucket:
-    twitter:
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+  # Profile information
+  name: Luis Diego Vera Alvarez # Nombre completo
+  tagline: Ruby on Rails Web Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
+  avatar: profile.png # Colocar una imagen con tu foto de 100x100 pixels dentro de /assets/images
 
+  # Actualiza tus datos de contacto
+  email: ldvera41@gmail.com
+  phone: 4131135484
+  website: # No agregar http://
+  linkedin: https://www.linkedin.com/in/luis-diego-vera-218a39178/
+  github: https://github.com/LDVera
+  gitlab:
+  bitbucket:
+  twitter: 
+  stack-overflow: # Number/Username, e.g. 123456/alandoe
+  codewars:
+  goodreads: # Number-Username, e.g. 123456-alandoe
+
+  # Actualiza según los idiomas y nieles que tienes. Agrega o Elimina según sea necesario.
   languages:
-  - idiom: English
-    level: Competent # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
+    - idiom: English
+      level: Competent # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
-  - idiom: Spanish
-    level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
+    - idiom: Spanish
+      level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
 
   # Registra aquí tus soft skills. Agrega o elimina según sea necesario
@@ -43,30 +44,41 @@ sidebar:
     - item: Time Management
       link: # dejar en blanco
 
+# Registra aquí un resumen de tu perfil
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
     A passionated developer searching always oportunities of get more knowledge and learn about new things 
     refering principal to web development enviroments but always open to learn about something 
-education:
-    - degree: Information technology and communications engineering
+
+# Registra aquí tus estudios. Agrega o elimina según sea necesario
+educationcomplete:
+  - degree: Information technology and communications engineering
     university: Tecnologico Nacional de Mexico en Roque campus Apaseo el Alto
     time: 2016 - 2021
     details: |
-    
-experiences:
-    - role: Desktop Developer
-      time: 2018 march - 2018 may
-      company: Asociación ganadera local de romita gto
-      details: |
-        Programming and implementation of a personnel management system using java
-        and MySQL like main technologies to the information treatment.
 
+# Registra aquí tu experiencia. Agrega o elimina según sea necesario
+experiences:
+  - role: Desktop Developer
+    time: 2018 march - 2018 may
+    company: Asociación ganadera local de romita gto
+    details: |
+      Programming and implementation of a personnel management system using java
+      and MySQL like main technologies to the information treatment.
+
+
+# Registra aquí tus habilidades técnicas, para level utiliza:
+# 20% para Novice
+# 40% para Advanced beginner
+# 60% para Competent
+# 80% para Proficient
+# 100% para Expert
 skills:
-    title: Technical Skills
-    
-    assignments:
-      - name: html
+  title: Technical Skills # NO MODIFICAR
+
+  toolset:
+    - name: html
       level: 80%
 
     - name: Git
@@ -76,7 +88,7 @@ skills:
       level: 60%
 
     - name: Ruby on rails
-      level: 40%
+      level: 60%
 
     - name: Mysql/postgres
       level: 40%
@@ -87,6 +99,6 @@ skills:
     - name: java
       level: 20%
 
-
+# NO MODIFICAR
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+  CV
