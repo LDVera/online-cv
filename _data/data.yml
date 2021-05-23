@@ -3,7 +3,9 @@
 #
 
 sidebar:
-
+    about: False # NO MODIFICAR
+    education: False # NO MODIFICAR
+    
     # Profile information
     name: Luis Diego Vera Alvarez
     tagline: Full Stack Developer
