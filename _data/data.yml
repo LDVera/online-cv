@@ -4,7 +4,7 @@
 
 sidebar:
   about: False # NO MODIFICAR
-  education: False # NO MODIFICAR
+  education: true # NO MODIFICAR
 
   # Profile information
   name: Luis Diego Vera Alvarez # Nombre completo
@@ -34,15 +34,15 @@ sidebar:
 
 
   # Registra aquí tus soft skills. Agrega o elimina según sea necesario
-  interests:
-    - item: Communication
-      link: # dejar en blanco
+  # interests:
+    # - item: Communication
+    #  link: # dejar en blanco
 
-    - item: Team Work
-      link: # dejar en blanco
+    # - item: Team Work
+    #  link: # dejar en blanco
 
-    - item: Time Management
-      link: # dejar en blanco
+    # - item: Time Management
+    #  link: # dejar en blanco
 
 # Registra aquí un resumen de tu perfil
 career-profile:
@@ -57,6 +57,13 @@ educationcomplete:
     university: Tecnologico Nacional de Mexico en Roque campus Apaseo el Alto
     time: 2016 - 2021
     details: |
+      
+    
+  - degree: BrightCoders Bootcamp
+    university: BrightCoders Academy
+    time: November 30th 2020 – May 21th 2021
+    details: |
+        Ruby on Rails Web Developer training 
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
@@ -96,7 +103,16 @@ skills:
     - name: React js 
       level: 40%
 
+    - name: Bootstrap
+      level: 40%
+      
+    - name: PHP
+      level: 20%
+      
     - name: java
+      level: 20%
+      
+    - name: MERN stack
       level: 20%
 
 # NO MODIFICAR
