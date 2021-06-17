@@ -4,7 +4,7 @@
 
 sidebar:
   about: False # NO MODIFICAR
-  education: true # NO MODIFICAR
+  education: True # NO MODIFICAR
 
   # Profile information
   name: Luis Diego Vera Alvarez # Nombre completo
