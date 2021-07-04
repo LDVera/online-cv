@@ -8,7 +8,7 @@ sidebar:
 
   # Profile information
   name: Luis Diego Vera Alvarez # Nombre completo
-  tagline: Ruby on Rails Web Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
+  tagline:  Web Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
   avatar: profile.png # Colocar una imagen con tu foto de 100x100 pixels dentro de /assets/images
 
   # Actualiza tus datos de contacto
@@ -52,7 +52,7 @@ career-profile:
     refering principal to web development enviroments but always open to learn about something 
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
-educationcomplete:
+education:
   - degree: Information technology and communications engineering
     university: Tecnologico Nacional de Mexico en Roque campus Apaseo el Alto
     time: 2016 - 2021
@@ -88,16 +88,19 @@ skills:
     - name: html
       level: 80%
 
+    - name: Word/Excel/PowePoint
+      level: 60%
+
     - name: Git
       level: 60% 
 
-    - name: css
+    - name: CSS
       level: 60%
 
     - name: Ruby on rails
       level: 60%
 
-    - name: Mysql/postgres
+    - name: Mysql/Postgres
       level: 40%
 
     - name: React js 
@@ -105,15 +108,20 @@ skills:
 
     - name: Bootstrap
       level: 40%
+
+    - name: JavaScript
+      level: 40%
       
+    - name: MERN stack
+      level: 40%
+
     - name: PHP
       level: 20%
       
     - name: java
       level: 20%
       
-    - name: MERN stack
-      level: 20%
+    
 
 # NO MODIFICAR
 footer: >
